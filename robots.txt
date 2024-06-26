@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://angelscript.hazelight.se/sitemap.xml
+Sitemap: https://docs.angelscript-ue.g1sgame.com/sitemap.xml

@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://angelscript.hazelight.se/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/cpp-bindings/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/cpp-bindings/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/cpp-bindings/automatic-bindings/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/cpp-bindings/automatic-bindings/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/cpp-bindings/mixin-libraries/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/cpp-bindings/mixin-libraries/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/cpp-bindings/precompiled-data/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/cpp-bindings/precompiled-data/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/getting-started/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/getting-started/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/getting-started/installation/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/getting-started/installation/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/getting-started/introduction/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/getting-started/introduction/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/project/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/project/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/project/development-status/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/project/development-status/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/project/license/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/project/license/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/project/resources/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/project/resources/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/actors-components/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/actors-components/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/cpp-differences/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/cpp-differences/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/delegates/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/delegates/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/editor-script/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/editor-script/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/fname-literals/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/fname-literals/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/format-strings/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/format-strings/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/function-libraries/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/function-libraries/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/functions-and-events/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/functions-and-events/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/gameplaytags/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/gameplaytags/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/mixin-methods/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/mixin-methods/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/networking-features/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/networking-features/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/properties-and-accessors/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/properties-and-accessors/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/script-tests/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/script-tests/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/structs-refs/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/structs-refs/</loc>
     </url>
     <url>
-        <loc>https://angelscript.hazelight.se/scripting/subsystems/</loc>
+        <loc>https://docs.angelscript-ue.g1sgame.com/scripting/subsystems/</loc>
     </url>
 </urlset>
